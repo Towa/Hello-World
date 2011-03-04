@@ -1,0 +1,5 @@
+X:\Projects\GitHelloWorld\Hello World\Hello World\bin\Debug\Hello World.exe
+X:\Projects\GitHelloWorld\Hello World\Hello World\bin\Debug\Hello World.pdb
+X:\Projects\GitHelloWorld\Hello World\Hello World\obj\Debug\ResolveAssemblyReference.cache
+X:\Projects\GitHelloWorld\Hello World\Hello World\obj\Debug\Hello World.exe
+X:\Projects\GitHelloWorld\Hello World\Hello World\obj\Debug\Hello World.pdb
