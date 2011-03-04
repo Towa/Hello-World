@@ -1,2 +1,9 @@
 *** Hello World ***
 This is just a little test project for testing the way git and github works
+Let's see how I can deal with changes on the server
+But what happens if there are some solvable conflicts?
+Change done by TortoiseGit
+Another change that is conflicted by the server
+Some additional stuff added during the merge process
+
+Hello World is so cool!!
