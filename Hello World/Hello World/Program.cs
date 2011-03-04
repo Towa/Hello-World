@@ -10,7 +10,6 @@ namespace Hello_World
       static void Main(string[] args)
       {
          Console.WriteLine("Hello World!\n");
-         Console.WriteLine("by Karsten Küpper & Partners");
       }
    }
 }
